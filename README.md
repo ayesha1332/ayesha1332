@@ -84,3 +84,6 @@ I thrive on **learning new tech**, **building skills**, and **sharing knowledge*
 </p>
 
 ---
+## 📊 GitHub Stats
+<table> <tr> <td width="55%" valign="top"> 
+ <img src="https://nirzak-streak-stats.vercel.app/?user=ayesha1332&theme=dark&hide_border=false" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha1332&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="/> </td> </tr> </table>
