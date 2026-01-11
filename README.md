@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-I am a passionate **Computer Science professional** with over **7 years of experience** across **Artificial Intelligence, Data Analytics, Web Development, Cloud Technologies, and Graphic Design**. I enjoy building intelligent systems, data-driven applications, and clean, user-focused designs.
+I am a passionate **Computer Science professional** with  **experience** across **Artificial Intelligence, Data Analytics, Web Development, Cloud Technologies, and Graphic Design**. I enjoy building intelligent systems, data-driven applications, and clean, user-focused designs.
 
 I am currently working on **Deep Learning for Fraud Detection in Financial Transactions**, combining strong analytical thinking with real-world AI implementation. I am known for creativity, leadership, and innovation through global programs such as **Microsoft Student Ambassador, IMUN Ambassador, and UoPeople Student Ambassador**.
 
