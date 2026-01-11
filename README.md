@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ayesha Maqsood
+# 👋 Hi, I'm Ayesha 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FFD5&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Data+%26+AI+Enthusiast;Web+%26+Cloud+Developer;Graphic+Design+Expert" />
