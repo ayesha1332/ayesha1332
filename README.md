@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Ayesha Maqsood ✨
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=2800&pause=700&color=00FFF7&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Data+%26+AI+Enthusiast;Web+%26+Cloud+Developer;Graphic+Design+Expert;Neon+Calligraphy+Lover" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=2800&pause=700&color=00FFF7&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Data+%26+AI+Enthusiast;Web+%26+Cloud+Developer" />
 </p>
 
 ---
