@@ -20,7 +20,7 @@ I thrive on **learning new tech**, **building skills**, and **sharing knowledge*
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="side">
   <a href="https://www.linkedin.com/in/ayesha-binat-maqsood"><img src="https://img.shields.io/badge/LinkedIn-00FFF7?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
   <a href="https://www.instagram.com/ayesha_binat_maqsood/"><img src="https://img.shields.io/badge/Instagram-FF00FF?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
   <a href="https://x.com/ayesha159831"><img src="https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=00FFF7"/></a>
@@ -34,7 +34,7 @@ I thrive on **learning new tech**, **building skills**, and **sharing knowledge*
 
 ### 💻 Programming Languages
 
-<p align="center">
+<p align="side">
   <img src="https://img.shields.io/badge/Python-00C8FF?style=for-the-badge&logo=python&logoColor=000000&glow=true"/>
   <img src="https://img.shields.io/badge/JavaScript-FFE600?style=for-the-badge&logo=javascript&logoColor=000000&glow=true"/>
   <img src="https://img.shields.io/badge/Java-FF6F00?style=for-the-badge&logo=java&logoColor=FFFFFF&glow=true"/>
@@ -48,7 +48,7 @@ I thrive on **learning new tech**, **building skills**, and **sharing knowledge*
 
 ### 🤖 AI & Data Science
 
-<p align="center">
+<p align="side">
   <img src="https://img.shields.io/badge/TensorFlow-FF9100?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF&glow=true"/>
   <img src="https://img.shields.io/badge/PyTorch-FF0033?style=for-the-badge&logo=pytorch&logoColor=FFFFFF&glow=true"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-00E5FF?style=for-the-badge&logo=scikit-learn&logoColor=000000&glow=true"/>
@@ -58,7 +58,7 @@ I thrive on **learning new tech**, **building skills**, and **sharing knowledge*
 
 ### 📊 Data Visualization & Tools
 
-<p align="center">
+<p align="side">
   <img src="https://img.shields.io/badge/Power_BI-FFF700?style=for-the-badge&logo=powerbi&logoColor=000000&glow=true"/>
   <img src="https://img.shields.io/badge/Tableau-FF6EC7?style=for-the-badge&logo=tableau&logoColor=FFFFFF&glow=true"/>
   <img src="https://img.shields.io/badge/Excel-207245?style=for-the-badge&logo=microsoft-excel&logoColor=FFFFFF&glow=true"/>
@@ -67,7 +67,7 @@ I thrive on **learning new tech**, **building skills**, and **sharing knowledge*
 
 ### ☁️ Cloud & Dev Tools
 
-<p align="center">
+<p align="side">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=00FFF7"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Docker-00E5FF?style=for-the-badge&logo=docker&logoColor=000000"/>
@@ -76,7 +76,7 @@ I thrive on **learning new tech**, **building skills**, and **sharing knowledge*
 
 ### 🎨 Design & Creative Skills
 
-<p align="center">
+<p align="side">
   <img src="https://img.shields.io/badge/Photoshop-00C8FF?style=for-the-badge&logo=adobephotoshop&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Canva-00FFD5?style=for-the-badge&logo=canva&logoColor=000000"/>
@@ -85,5 +85,7 @@ I thrive on **learning new tech**, **building skills**, and **sharing knowledge*
 
 ---
 ## 📊 GitHub Stats
-<table> <tr> <td width="55%" valign="top"> 
- <img src="https://nirzak-streak-stats.vercel.app/?user=ayesha1332&theme=dark&hide_border=false" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha1332&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="/> </td> </tr> </table>
+![](https://github-readme-stats.vercel.app/api?username=ayesha1332&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ayesha1332&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha1332&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
