@@ -10,8 +10,6 @@
 
 I'm a passionate **Cybersecurity Enthusiast, AI Developer, and Web Engineer** with hands-on experience in **penetration testing, cloud infrastructure, artificial intelligence, networking, and full-stack development**.
 
-🏆 Ranked among the **Top 1% Globally on TryHackMe** with 250+ cybersecurity labs and CTF challenges completed.
-
 🎓 BS Computer Science Student and Lecturer with a strong interest in:
 
 * Offensive Security & Ethical Hacking
