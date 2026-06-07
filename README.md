@@ -142,7 +142,6 @@ Speech-enabled virtual assistant integrated with GPT and NLP technologies.
 
 ## 🏆 Achievements
 
-* 🥇 Top 1% Global Ranking on TryHackMe
 * 🧠 250+ Cybersecurity Labs Completed
 * 🚀 150+ Freelance Projects Delivered
 * 📈 Improved Web Application Performance by 30%
