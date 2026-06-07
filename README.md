@@ -1,89 +1,166 @@
-
-# 👋 Hi, I'm Ayesha Maqsood ✨
+# 👋 Hi, I'm Ayesha Maqsood Ahmad 🔐
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=2800&pause=700&color=00FFF7&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Data+%26+AI+Enthusiast;Web+%26+Cloud+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=2800&pause=700&color=00FFF7&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;AI+Developer;Web+Engineer;Top+1%25+TryHackMe+Player;Cloud+%26+Infrastructure+Specialist;Researcher+in+AI+Fraud+Detection" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-I am a passionate **Computer Science professional** with hands-on experience in **Artificial Intelligence, Data Analytics, Web Development, Cloud Technologies, and Graphic Design**. I love building **intelligent systems**, **data-driven apps**, and **visually stunning digital experiences**.
+I'm a passionate **Cybersecurity Enthusiast, AI Developer, and Web Engineer** with hands-on experience in **penetration testing, cloud infrastructure, artificial intelligence, networking, and full-stack development**.
 
-Currently, I am working on **Deep Learning for Fraud Detection in Financial Transactions**, focusing on practical AI solutions using real-world datasets. Outside tech, I explore **neon calligraphy**, blending artistic expression with futuristic digital aesthetics.
+🏆 Ranked among the **Top 1% Globally on TryHackMe** with 250+ cybersecurity labs and CTF challenges completed.
 
-I thrive on **learning new tech**, **building skills**, and **sharing knowledge** with the developer community.
+🎓 BS Computer Science Student and Lecturer with a strong interest in:
+
+* Offensive Security & Ethical Hacking
+* Artificial Intelligence & Deep Learning
+* Cloud Computing & Infrastructure
+* Full Stack Web Development
+* Digital Forensics & Threat Hunting
+* Security Research & Vulnerability Assessment
+
+Currently researching:
+
+> **Deep Learning for Fraud Detection in Financial Transactions**
 
 ---
-
 
 ## 🌐 Connect With Me
 
-<p align="side">
-  <a href="https://www.linkedin.com/in/ayesha-binat-maqsood"><img src="https://img.shields.io/badge/LinkedIn-00FFF7?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
-  <a href="https://www.instagram.com/ayesha_binat_maqsood/"><img src="https://img.shields.io/badge/Instagram-FF00FF?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
-  <a href="https://x.com/ayesha159831"><img src="https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=00FFF7"/></a>
-  <a href="mailto:ayeshamaqsood1322@gmail.com"><img src="https://img.shields.io/badge/Email-FF3131?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/></a>
-  <a href="https://github.com/ayesha1332"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFF7"/></a>
+<p align="left">
+  <a href="mailto:ayeshamaqsood1332@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF3131?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/ayesha1332">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFF7"/>
+  </a>
+
+  <a href="https://tryhackme.com">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+  </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+# 🛡️ Cybersecurity Skills
 
-### 💻 Programming Languages
-
-<p align="side">
-  <img src="https://img.shields.io/badge/Python-00C8FF?style=for-the-badge&logo=python&logoColor=000000&glow=true"/>
-  <img src="https://img.shields.io/badge/JavaScript-FFE600?style=for-the-badge&logo=javascript&logoColor=000000&glow=true"/>
-  <img src="https://img.shields.io/badge/Java-FF6F00?style=for-the-badge&logo=java&logoColor=FFFFFF&glow=true"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF&glow=true"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=FFFFFF&glow=true"/>
-  <img src="https://img.shields.io/badge/SQL-FF4500?style=for-the-badge&logo=mysql&logoColor=FFFFFF&glow=true"/>
-  <img src="https://img.shields.io/badge/HTML5-FF3131?style=for-the-badge&logo=html5&logoColor=FFFFFF&glow=true"/>
-  <img src="https://img.shields.io/badge/CSS3-00AFFF?style=for-the-badge&logo=css3&logoColor=FFFFFF&glow=true"/>
-  <img src="https://img.shields.io/badge/Node.js-39FF14?style=for-the-badge&logo=node.js&logoColor=000000&glow=true"/>
-</p>
-
-### 🤖 AI & Data Science
-
-<p align="side">
-  <img src="https://img.shields.io/badge/TensorFlow-FF9100?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF&glow=true"/>
-  <img src="https://img.shields.io/badge/PyTorch-FF0033?style=for-the-badge&logo=pytorch&logoColor=FFFFFF&glow=true"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-00E5FF?style=for-the-badge&logo=scikit-learn&logoColor=000000&glow=true"/>
-  <img src="https://img.shields.io/badge/Pandas-7C4DFF?style=for-the-badge&logo=pandas&logoColor=FFFFFF&glow=true"/>
-  <img src="https://img.shields.io/badge/NumPy-00FFD5?style=for-the-badge&logo=numpy&logoColor=000000&glow=true"/>
-</p>
-
-### 📊 Data Visualization & Tools
-
-<p align="side">
-  <img src="https://img.shields.io/badge/Power_BI-FFF700?style=for-the-badge&logo=powerbi&logoColor=000000&glow=true"/>
-  <img src="https://img.shields.io/badge/Tableau-FF6EC7?style=for-the-badge&logo=tableau&logoColor=FFFFFF&glow=true"/>
-  <img src="https://img.shields.io/badge/Excel-207245?style=for-the-badge&logo=microsoft-excel&logoColor=FFFFFF&glow=true"/>
-  <img src="https://img.shields.io/badge/Jupyter-FF7F00?style=for-the-badge&logo=jupyter&logoColor=FFFFFF&glow=true"/>
-</p>
-
-### ☁️ Cloud & Dev Tools
-
-<p align="side">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=00FFF7"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Docker-00E5FF?style=for-the-badge&logo=docker&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Git-FF3131?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
-</p>
-
-### 🎨 Design & Creative Skills
-
-<p align="side">
-  <img src="https://img.shields.io/badge/Photoshop-00C8FF?style=for-the-badge&logo=adobephotoshop&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Canva-00FFD5?style=for-the-badge&logo=canva&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Neon_Calligraphy-FF00FF?style=for-the-badge&logo=artstation&logoColor=FFFFFF"/>
+<p align="left">
+<img src="https://img.shields.io/badge/Penetration_Testing-FF003C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vulnerability_Assessment-00FFF7?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Incident_Response-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Firewall_Configuration-FF6B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Risk_Assessment-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CTF_Player-FF00FF?style=for-the-badge"/>
 </p>
 
 ---
-## 📊 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=ayesha1332&theme=nightowl&hide_border=false)<br/>
 
+# 🌐 Networking & Infrastructure
+
+<p align="left">
+<img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco"/>
+<img src="https://img.shields.io/badge/TCP/IP-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DNS-00FFF7?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/VPN-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware"/>
+<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge"/>
+</p>
+
+---
+
+# 🤖 Artificial Intelligence & Machine Learning
+
+<p align="left">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/OpenAI_API-00FFF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-FF00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep_Learning-7928CA?style=for-the-badge"/>
+</p>
+
+---
+
+# 💻 Development Stack
+
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+</p>
+
+---
+
+# ☁️ Cloud & Platforms
+
+<p align="left">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+---
+
+# 🎨 Design & Creative
+
+<p align="left">
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop"/>
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva"/>
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🤖 AI Chatbot – Bilingual NLP System
+
+GPT-powered chatbot with multilingual support, speech recognition, and intelligent conversation handling.
+
+### 🏦 Deep Learning Fraud Detection System
+
+Neural network solution for detecting fraudulent financial transactions with high accuracy.
+
+### 👤 Smart Attendance System
+
+Facial recognition attendance platform powered by OpenCV, Firebase, and AWS Rekognition.
+
+### 🎙️ AI Voice Assistant
+
+Speech-enabled virtual assistant integrated with GPT and NLP technologies.
+
+---
+
+## 🏆 Achievements
+
+* 🥇 Top 1% Global Ranking on TryHackMe
+* 🧠 250+ Cybersecurity Labs Completed
+* 🚀 150+ Freelance Projects Delivered
+* 📈 Improved Web Application Performance by 30%
+* 🔐 Specialized in Security Assessment & Infrastructure Hardening
+* 📚 15+ Industry Certifications
+
+---
+
+## 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=ayesha1332\&show_icons=true\&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ayesha1332\&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha1332\&layout=compact\&theme=tokyonight)
+
+---
+
+### ⚡ Favorite Quote
+
+> "The quieter you become, the more you are able to hear."
